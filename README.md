@@ -1,8 +1,7 @@
 # 🏗️ Building Site Selection and Protection  
 
-> A GIS-based model integrating machine learning and time series analysis for optimized building site selection and protection in disaster-prone areas.
+A GIS-based model integrating machine learning and time series analysis for optimized building site selection and protection in disaster-prone areas.
 
----
 
 ## 📖 Background
 
