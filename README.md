@@ -25,7 +25,7 @@ Frequent natural disasters make building site selection and protection increasin
    [EM-DAT Datasets](https://www.emdat.be/)
 
 - 🌐 **Indicator 6: Forest Fires**  
-  📎 [Global Forest Watch - Mexico](https://www.globalforestwatch.org/dashboards/country/MEX/?category=fires&location=WyJjb3VudHJ5IiwiTUVYIl0%3D)
+   [Global Forest Watch - Mexico](https://www.globalforestwatch.org/dashboards/country/MEX/?category=fires&location=WyJjb3VudHJ5IiwiTUVYIl0%3D)
 
 
 
