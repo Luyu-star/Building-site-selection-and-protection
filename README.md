@@ -3,7 +3,7 @@
 A GIS-based model integrating machine learning and time series analysis for optimized building site selection and protection in disaster-prone areas.
 
 
-## 📖 Background
+## 📖 Introduction
 
 Frequent natural disasters make building site selection and protection increasingly complex. Traditional mechanisms for disaster insurance and resource allocation often lack efficiency and foresight. This project proposes an innovative optimization model combining geographic data, machine learning, and time series forecasting to support planning decisions. Mexico City is used as a case study.
 
