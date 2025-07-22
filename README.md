@@ -27,5 +27,10 @@ Frequent natural disasters make building site selection and protection increasin
 - 🌐 **Indicator 6: Forest Fires**  
    [Global Forest Watch - Mexico](https://www.globalforestwatch.org/dashboards/country/MEX/?category=fires&location=WyJjb3VudHJ5IiwiTUVYIl0%3D)
 
+##   **Reference**
+EM-DAT, CRED / UCLouvain (2024) – with major processing by Our World in Data. “Number of recorded natural disaster events – EM-DAT” [dataset]. EM-DAT, CRED / UCLouvain, “Natural disasters” [original data]. Retrieved July 22, 2025 from https://archive.ourworldindata.org/20250624-125417/grapher/number-of-natural-disaster-events.html (archived on June 24, 2025).
+
+
+
 
 
