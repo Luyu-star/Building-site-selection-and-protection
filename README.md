@@ -30,7 +30,7 @@ This project proposes an optimization framework that combines geographic data, m
 ### 3. Configuration Steps (for Building Site Selection)
 
 - Add base maps and elevation data layers to the project.
-- Configure spatial analysis toolbox for site selection:
+- Configure spatial analysis toolbox for site selection.
 
 ##  📌Data Overview
 
