@@ -1,25 +1,39 @@
-# 🏗️ Building Site Selection and Protection
+# Building Site Selection and Protection
 
 An ArcGIS-based model integrating machine learning and time series analysis for optimized building site selection and protection in disaster-prone areas.
 
----
-
-## 📖 Introduction
+##  Introduction
 
 Frequent natural disasters make building site selection and protection increasingly complex. Traditional mechanisms for disaster insurance and resource allocation often lack efficiency and foresight.  
 This project proposes an optimization framework that combines geographic data, machine learning, and time series forecasting to support spatial planning decisions. Mexico City is used as a case study area.
 
----
+## How to Start
 
-## 📁 Data Overview
+### 1. Download the Installation Package
 
-### 🔍 1. Disaster Insurance Decision-Making Indicators
+- Download the ArcGIS Pro installer from the [Esri official website](https://www.esri.com/).  
+  *Note: An educational account or valid license is required.*
+
+### 2. Installation Process
+
+- Run the installer file `ArcGISPro_3.1.exe`.
+- Follow the on-screen instructions to complete the installation.
+- Launch ArcGIS Pro and sign in with your educational license or authorized account.
+
+### 3. Configuration Steps (for Building Site Selection)
+
+- Add base maps and elevation data layers to the project.
+- Configure spatial analysis toolbox for site selection:
+
+##  Data Overview
+
+### 1. Disaster Insurance Decision-Making Indicators
 
 - [Number of Natural Disaster Events](https://ourworldindata.org/grapher/number-of-natural-disaster-events)  
 - [Direct Economic Loss from Disasters](https://ourworldindata.org/grapher/direct-economic-loss-attributed-to-disasters)  
 - [GDP Share of Disaster Loss](https://ourworldindata.org/explorers/natural-disasters?tab=map&time=2020&Disaster+Type=All+disasters&Impact=Economic+damages+%28%25+GDP%29&Timespan=Decadal+average&Per+capita=false&country=~OWID_WRL)
 
-### 🗺️ 2. Building Site Selection – Six Risk Indicators
+### 2. Building Site Selection – Six Risk Indicators
 
 - **Population Density**  
    [Our World in Data – Population Density](https://ourworldindata.org/explorers/population-and-demography?indicator=Population+density&Sex=Both+sexes&Age=Total&Projection+scenario=None&country=CHN~IND~USA~IDN~PAK~NGA~BRA~JPN)
@@ -32,9 +46,9 @@ This project proposes an optimization framework that combines geographic data, m
 
 ---
 
-## 📦 Data Sources and Licenses
+##  Data Sources and Licenses
 
-### 🔹 Our World in Data
+###  Our World in Data
 
 Some datasets in this repository are sourced from [Our World in Data](https://ourworldindata.org/), a project of the **Global Change Data Lab**, a UK-based nonprofit (Charity No. 1186433).  
 
@@ -43,18 +57,16 @@ Some datasets in this repository are sourced from [Our World in Data](https://ou
 - **Tools/software:** Licensed under MIT.  
 - See: [About & Licensing](https://ourworldindata.org/about#licensing-and-how-to-cite)
 
----
 
-### 🔹 EM-DAT (CRED / UCLouvain)
+###  EM-DAT (CRED / UCLouvain)
 
 Disaster records were sourced from [EM-DAT: The International Disaster Database](https://public.emdat.be/), maintained by the **Centre for Research on the Epidemiology of Disasters (CRED)** at **Université catholique de Louvain (UCLouvain)**.
 
 > **Citation:**  
 > *EM-DAT: The International Disaster Database – Université catholique de Louvain (UCLouvain), CRED, Belgium – [www.emdat.be](https://www.emdat.be)*
 
----
 
-### 🔹 Global Forest Watch (GFW)
+###  Global Forest Watch (GFW)
 
 Forest fire and land use data were sourced from [Global Forest Watch (GFW)](https://www.globalforestwatch.org/), a platform offering high-quality forest-related data.
 
