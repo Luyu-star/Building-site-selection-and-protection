@@ -66,13 +66,3 @@ Forest fire and land use data were sourced from [Global Forest Watch (GFW)](http
 > Please **do not imply endorsement** by GFW or use their logos.
 
 ---
-
-## 🧾 Citation 
-
-```bibtex
-@dataset{emdat2024,
-  title = {EM-DAT: The International Disaster Database},
-  author = {CRED / UCLouvain},
-  year = {2024},
-  url = {https://www.emdat.be}
-}
