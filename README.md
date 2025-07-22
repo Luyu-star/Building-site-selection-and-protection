@@ -7,7 +7,7 @@ An ArcGIS-based model integrating machine learning and time series analysis for 
 
 Frequent natural disasters make building site selection and protection increasingly complex. Traditional mechanisms for disaster insurance and resource allocation often lack efficiency and foresight. This project proposes an innovative optimization model combining geographic data, machine learning, and time series forecasting to support planning decisions. Mexico City is used as a case study.
 
-## 📁 Data Sources
+## 📁 Data Links
 
 ### 1. **Disaster Insurance Decision-Making**
 -  [Number of Natural Disaster Events](https://ourworldindata.org/grapher/number-of-natural-disaster-events)
@@ -26,6 +26,16 @@ Frequent natural disasters make building site selection and protection increasin
 
 - 🌐 **Indicator 6: Forest Fires**  
    [Global Forest Watch - Mexico](https://www.globalforestwatch.org/dashboards/country/MEX/?category=fires&location=WyJjb3VudHJ5IiwiTUVYIl0%3D)
+
+## 📦 Data Source and License
+
+Part of the data in this repository is sourced from [Our World in Data](https://ourworldindata.org/), a project of the Global Change Data Lab — a UK-based non-profit organization (Charity No. 1186433).
+
+Unless otherwise stated, their charts, articles, and data are licensed under the **Creative Commons BY** license (CC BY 4.0).  
+The tools and software developed by them are open-source under the **MIT license**.
+
+Some third-party charts and datasets may be subject to different licensing terms.  
+Please refer to [Our World in Data FAQ](https://ourworldindata.org/about#licensing-and-how-to-cite) for more details.
 
 ##   **Reference**
 EM-DAT, CRED / UCLouvain (2024) – with major processing by Our World in Data. “Number of recorded natural disaster events – EM-DAT” [dataset]. EM-DAT, CRED / UCLouvain, “Natural disasters” [original data]. Retrieved July 22, 2025 from https://archive.ourworldindata.org/20250624-125417/grapher/number-of-natural-disaster-events.html (archived on June 24, 2025).
