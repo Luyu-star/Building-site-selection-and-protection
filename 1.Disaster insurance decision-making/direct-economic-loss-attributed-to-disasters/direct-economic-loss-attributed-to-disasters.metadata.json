@@ -1,0 +1,38 @@
+{
+  "chart": {
+    "title": "Direct economic loss attributed to disasters",
+    "subtitle": "The monetary value per year of total or partial destruction of physical assets existing in the affected area. Direct economic loss is nearly equivalent to physical damage. This data is in current US$ and not adjusted for inflation",
+    "note": "",
+    "citation": "UN Office for Disaster Risk Reduction",
+    "originalChartUrl": "https://ourworldindata.org/grapher/direct-economic-loss-attributed-to-disasters?v=1&csvType=full&useColumnShortNames=false",
+    "selection": [
+      "Mexico",
+      "Switzerland",
+      "Australia",
+      "Indonesia",
+      "China",
+      "India",
+      "Gambia"
+    ]
+  },
+  "columns": {
+    "1.5.2 - Direct economic loss attributed to disasters (current United States dollars) - VC_DSR_GDPLS": {
+      "titleShort": "1.5.2 - Direct economic loss attributed to disasters (current United States dollars) - VC_DSR_GDPLS",
+      "titleLong": "1.5.2 - Direct economic loss attributed to disasters (current United States dollars) - VC_DSR_GDPLS",
+      "descriptionShort": "Direct economic loss attributed to disasters (current United States dollars)",
+      "shortUnit": "$",
+      "unit": "usd",
+      "timespan": "2005-2022",
+      "type": "Numeric",
+      "owidVariableId": 995311,
+      "shortName": "_1_5_2__vc_dsr_gdpls",
+      "lastUpdated": "2024-08-27",
+      "nextUpdate": "2026-08-27",
+      "citationShort": "UN Office for Disaster Risk Reduction – processed by Our World in Data",
+      "citationLong": "UN Office for Disaster Risk Reduction – processed by Our World in Data. “1.5.2 - Direct economic loss attributed to disasters (current United States dollars) - VC_DSR_GDPLS” [dataset]. UN Office for Disaster Risk Reduction, “United Nations Office for Disaster Risk Reduction (2024)” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/995311.metadata.json"
+    }
+  },
+  "dateDownloaded": "2025-05-16",
+  "activeFilters": {}
+}
