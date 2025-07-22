@@ -37,6 +37,15 @@ The tools and software developed by them are open-source under the **MIT license
 Some third-party charts and datasets may be subject to different licensing terms.  
 Please refer to [Our World in Data FAQ](https://ourworldindata.org/about#licensing-and-how-to-cite) for more details.
 
+## 🌍 Disaster Data Source
+
+Some of the data used in this repository is sourced from [EM-DAT: The International Disaster Database](https://public.emdat.be/), maintained by the **Centre for Research on the Epidemiology of Disasters (CRED)** at the **Université catholique de Louvain (UCLouvain)**, Belgium.
+
+Please cite as:
+
+> EM-DAT: The International Disaster Database – Université catholique de Louvain (UCLouvain), CRED, Belgium – [www.emdat.be](https://www.emdat.be)
+
+
 ##   **Reference**
 EM-DAT, CRED / UCLouvain (2024) – with major processing by Our World in Data. “Number of recorded natural disaster events – EM-DAT” [dataset]. EM-DAT, CRED / UCLouvain, “Natural disasters” [original data]. Retrieved July 22, 2025 from https://archive.ourworldindata.org/20250624-125417/grapher/number-of-natural-disaster-events.html (archived on June 24, 2025).
 
