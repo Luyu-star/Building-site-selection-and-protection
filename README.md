@@ -2,7 +2,7 @@
 
 An ArcGIS-based model integrating machine learning and time series analysis for optimized building site selection and protection in disaster-prone areas.
 
-##  📌Introduction
+##  Introduction
 
 Frequent natural disasters make building site selection and protection increasingly complex. Traditional mechanisms for disaster insurance and resource allocation often lack efficiency and foresight.  
 This project proposes an optimization framework that combines geographic data, machine learning, and time series forecasting to support spatial planning decisions. Mexico City is used as a case study area.
@@ -32,7 +32,7 @@ This project proposes an optimization framework that combines geographic data, m
 - Add base maps and elevation data layers to the project.
 - Configure spatial analysis toolbox for site selection.
 
-##  📌Data Overview
+##  Data Overview
 
 ### 1. Disaster Insurance Decision-Making Indicators
 
@@ -52,7 +52,7 @@ This project proposes an optimization framework that combines geographic data, m
    [Global Forest Watch – Mexico Fire Dashboard](https://www.globalforestwatch.org/dashboards/country/MEX/?category=fires&location=WyJjb3VudHJ5IiwiTUVYIl0%3D)
 
 
-##  📌Data Sources and Licenses
+##  Data Sources and Licenses
 
 ###  Our World in Data
 
