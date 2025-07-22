@@ -30,6 +30,8 @@ Frequent natural disasters make building site selection and protection increasin
 ##   **Reference**
 EM-DAT, CRED / UCLouvain (2024) – with major processing by Our World in Data. “Number of recorded natural disaster events – EM-DAT” [dataset]. EM-DAT, CRED / UCLouvain, “Natural disasters” [original data]. Retrieved July 22, 2025 from https://archive.ourworldindata.org/20250624-125417/grapher/number-of-natural-disaster-events.html (archived on June 24, 2025).
 
+UN Office for Disaster Risk Reduction – processed by Our World in Data. “Direct economic loss attributed to disasters” [dataset]. UN Office for Disaster Risk Reduction, “United Nations Office for Disaster Risk Reduction (2024)” [original data]. Retrieved July 22, 2025 from https://archive.ourworldindata.org/20250624-125417/grapher/direct-economic-loss-attributed-to-disasters.html (archived on June 24, 2025).
+
 
 
 
