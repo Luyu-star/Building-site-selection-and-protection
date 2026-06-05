@@ -2,6 +2,8 @@
 
 An ArcGIS-based model integrating machine learning and time series analysis for optimized building site selection and protection in disaster-prone areas.
 
+**DOI:** [10.5281/zenodo.20543956](https://doi.org/10.5281/zenodo.20543956)
+
 ##  Introduction
 
 Frequent natural disasters make building site selection and protection increasingly complex. Traditional mechanisms for disaster insurance and resource allocation often lack efficiency and foresight.  
