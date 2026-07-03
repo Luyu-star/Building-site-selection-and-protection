@@ -48,8 +48,8 @@ This project proposes an optimization framework that combines geographic data, m
    [Our World in Data – Population Density](https://ourworldindata.org/explorers/population-and-demography?indicator=Population+density&Sex=Both+sexes&Age=Total&Projection+scenario=None&country=CHN~IND~USA~IDN~PAK~NGA~BRA~JPN)
 
 - **Geological Hazards** (Earthquakes, Floods, Volcanoes)  
-   [EM-DAT – The International Disaster Database](https://www.emdat.be/)
-   [ATLAS CDMX – Geospatial Data Platform](https://www.atlas.cdmx.gob.mx/principal/inicio) — provides seismic hazard maps (PGA) for Mexico City, used for earthquake risk layer generation (see Figure 7 in the associated paper).
+- [EM-DAT – The International Disaster Database](https://www.emdat.be/)
+- [ATLAS CDMX – Geospatial Data Platform](https://www.atlas.cdmx.gob.mx/principal/inicio) — provides seismic hazard maps (PGA) for Mexico City, used for earthquake risk layer generation (see Figure 7 in the associated paper).
 
 - **Forest Fires**  
    [Global Forest Watch – Mexico Fire Dashboard](https://www.globalforestwatch.org/dashboards/country/MEX/?category=fires&location=WyJjb3VudHJ5IiwiTUVYIl0%3D)
