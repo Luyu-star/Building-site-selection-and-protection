@@ -57,6 +57,13 @@ This project proposes an optimization framework that combines geographic data, m
 
 ##  Data Sources and Licenses
 
+### ATLAS CDMX – Geospatial Data Platform
+Geospatial data for Mexico City (seismic hazard maps, PGA, urban planning layers, etc.) were obtained from the official **ATLAS CDMX** platform.
+
+- **Source**: Gobierno de la Ciudad de México
+- **URL**: [https://www.atlas.cdmx.gob.mx/principal/inicio](https://www.atlas.cdmx.gob.mx/principal/inicio)
+  
+
 ###  Our World in Data
 
 Some datasets in this repository are sourced from [Our World in Data](https://ourworldindata.org/), a project of the **Global Change Data Lab**, a UK-based nonprofit (Charity No. 1186433).  
