@@ -49,6 +49,7 @@ This project proposes an optimization framework that combines geographic data, m
 
 - **Geological Hazards** (Earthquakes, Floods, Volcanoes)  
    [EM-DAT – The International Disaster Database](https://www.emdat.be/)
+   [ATLAS CDMX – Geospatial Data Platform](https://www.atlas.cdmx.gob.mx/principal/inicio) — provides seismic hazard maps (PGA) for Mexico City, used for earthquake risk layer generation (see Figure 7 in the associated paper).
 
 - **Forest Fires**  
    [Global Forest Watch – Mexico Fire Dashboard](https://www.globalforestwatch.org/dashboards/country/MEX/?category=fires&location=WyJjb3VudHJ5IiwiTUVYIl0%3D)
